@@ -33,6 +33,32 @@ Mark attendance, track shifts, view monthly reports, and manage employees — al
 
 ---
 
+## 🖼️ Screenshots
+
+
+<table>
+  <tr>
+    <td align="center"><b>Admin Dashboard</b></td>
+    <td align="center"><b>System Admin</b></td>
+  </tr>
+  <tr>
+    <td><img width="420" alt="image" src="https://github.com/user-attachments/assets/0dcba29d-9b53-4d46-8190-de6829592fff" /></td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/94ce5f72-0e7a-4993-ab60-04c1441eb885" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Employee Dashboard</b></td>
+    <td align="center"><b>Mark Attendence</b></td>
+  </tr>
+  <tr>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/efd6ae7d-4de1-42eb-a6a8-378c7710a506" /> </td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/310f009e-1154-4aa5-99d4-673646c6aca5" /> </td>
+  </tr>
+</table>
+
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
